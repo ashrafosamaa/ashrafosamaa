@@ -35,10 +35,9 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 - 📫 How to reach me:
-<br/>
+
   - Email: (mailto:ashrafosama667@gmail.com) <br/>
   - LinkedIn: ((https://www.linkedin.com/in/ashraf-osama23/))
 
