@@ -14,7 +14,6 @@
 
 <br/>
 <br/>
-<br/>
 
 # 📋 Programming Languages 
 
@@ -25,21 +24,22 @@
 
 <br/>
 <br/>
-<br/>
 
 # 💾 Databases and ORM
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 
 - 📫 How to reach me:
 <br/>
-  - Email: (mailto:ashrafosama667@gmail.com)
+  - Email: (mailto:ashrafosama667@gmail.com) <br/>
   - LinkedIn: ((https://www.linkedin.com/in/ashraf-osama23/))
 
 
