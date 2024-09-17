@@ -1,7 +1,7 @@
 # Hi there, I'm Ashraf! 👋
 
 
-- 🔭 I’m currently working on **Back-end Node.js**
+- 🔭 Enhancing my skills in back-end development through hands-on Node.js projects.
 
 
 ## 📚 Frameworks and Libraries 
