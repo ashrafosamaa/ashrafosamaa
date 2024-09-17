@@ -20,8 +20,8 @@
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/python-%23F0DB4F.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-<img align="left" src="https://img.shields.io/badge/python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 <br/>
 <br/>
