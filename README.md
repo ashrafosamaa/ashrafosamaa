@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **Back-end Node.js**
 
+---
 
 # 📚 Frameworks and Libraries 
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -42,9 +43,8 @@
 <br/>
 <br/>
 
+---
+
 - 📬 **How to Reach Me:**
   - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
   - 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/ashraf-osama23/)
-
-
-
