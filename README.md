@@ -42,9 +42,9 @@
 <br/>
 <br/>
 
-- 📫 How to reach me:
-  - Email: mailto:ashrafosama667@gmail.com <br/>
-  - LinkedIn: https://www.linkedin.com/in/ashraf-osama23/
+- 📬 **How to Reach Me:**
+  - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
+  - 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ashraf-osama23/)
 
 
 
