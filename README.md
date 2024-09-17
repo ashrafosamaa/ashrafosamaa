@@ -1,7 +1,7 @@
 # Hi there, I'm Ashraf! 👋
 
 
-- 🔭 Currently developing scalable projects with **Back-end Node.js**.
+- 🔭 Currently developing scalable **Back-end** projects with **Node.js**.
 
 
 ## 📚 Frameworks and Libraries 
