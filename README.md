@@ -1,6 +1,5 @@
 # Hi there, I'm Ashraf! 👋
 
-<br/>
 
 - 🔭 I’m currently working on Back-end Node.js
 
@@ -11,12 +10,12 @@
 <img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+<img align="left" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <br/>
 <br/>
 
 # 📋 Programming Languages 
-
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -31,15 +30,13 @@
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
-
-<br/>
 <br/>
 <br/>
 
 - 📫 How to reach me:
 
-  - Email: (mailto:ashrafosama667@gmail.com) <br/>
-  - LinkedIn: ((https://www.linkedin.com/in/ashraf-osama23/))
+  - Email: mailto:ashrafosama667@gmail.com <br/>
+  - LinkedIn: https://www.linkedin.com/in/ashraf-osama23/
 
 
 
