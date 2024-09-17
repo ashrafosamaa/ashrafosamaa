@@ -1,7 +1,7 @@
 # Hi there, I'm Ashraf! 👋
 
 
-- 🔭 I’m currently working on Back-end Node.js
+- 🔭 I’m currently working on **Back-end Node.js**
 
 
 # 📚 Frameworks and Libraries 
@@ -44,7 +44,7 @@
 
 - 📬 **How to Reach Me:**
   - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
-  - 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ashraf-osama23/)
+  - 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/ashraf-osama23/)
 
 
 
