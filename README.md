@@ -44,9 +44,9 @@
 <br/>
 <br/>
 
----
+----
 
 - 📬 **How to Reach Me:**
   - 🌐 **LinkedIn:** [My LinkedIn Account](https://www.linkedin.com/in/ashraf-osama23/)
-  - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
   - 📱 **Mobile Phone:** +20 115 315 2002
+  - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
