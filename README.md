@@ -51,8 +51,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" />
   **LinkedIn:** [Ashraf Osama](https://www.linkedin.com/in/ashraf-osama23/) </p>
   - 🌐 **LinkedIn:** [My LinkedIn Account](https://www.linkedin.com/in/ashraf-osama23/)
-  -   -<p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" />
-  - **LinkedIn:** [Ashraf Osama](https://www.linkedin.com/in/ashraf-osama23/) </p>
+  - <p align="left">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" />
+    **LinkedIn:** [Ashraf Osama](https://www.linkedin.com/in/ashraf-osama23/) </p>
   - 📱 **Mobile Phone:** +20 115 315 2002
   - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
