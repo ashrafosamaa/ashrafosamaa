@@ -45,7 +45,6 @@
 <br/>
 
 ---
-_______
 
 - 📬 **How to Reach Me:**
   - 🌐 **LinkedIn:** [My LinkedIn Account](https://www.linkedin.com/in/ashraf-osama23/)
