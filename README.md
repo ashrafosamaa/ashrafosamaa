@@ -47,12 +47,12 @@
 ---
 
 - 📬 **How to Reach Me:**
-  -<p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" />
-  **LinkedIn:** [Ashraf Osama](https://www.linkedin.com/in/ashraf-osama23/) </p>
-  - 🌐 **LinkedIn:** [My LinkedIn Account](https://www.linkedin.com/in/ashraf-osama23/)
   - <p align="left">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" />
-    **LinkedIn:** [Ashraf Osama](https://www.linkedin.com/in/ashraf-osama23/) </p>
-  - 📱 **Mobile Phone:** +20 115 315 2002
-  - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" style="vertical-align: middle; margin-right: 5px;" />
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ashraf-osama23/">Ashraf Osama</a> </p>
+  - <p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="15" width="15" style="vertical-align: middle; margin-right: 5px;" />
+    <strong>Mobile Phone:</strong> +20 115 315 2002 </p>
+  - <p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="15" width="15" style="vertical-align: middle; margin-right: 5px;" />
+    <strong>Email:</strong> <a href="mailto:ashrafosama667@gmail.com">ashrafosama667@gmail.com</a> </p>
