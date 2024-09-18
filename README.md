@@ -47,6 +47,9 @@
 ---
 
 - 📬 **How to Reach Me:**
+- <p align="left">
+<a href="(https://www.linkedin.com/in/ashraf-osama23/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/ashraf-osama23/)" height="30" width="40" /></a>
+</p>
   - 🌐 **LinkedIn:** [My LinkedIn Account](https://www.linkedin.com/in/ashraf-osama23/)
   - 📱 **Mobile Phone:** +20 115 315 2002
   - ✉️ **Email:** [ashrafosama667@gmail.com](mailto:ashrafosama667@gmail.com)
