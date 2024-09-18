@@ -48,7 +48,7 @@
 
 - 📬 **How to Reach Me:**
   -<p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" />
   **LinkedIn:** [Ashraf Osama](https://www.linkedin.com/in/ashraf-osama23/)
 </p>
   - 🌐 **LinkedIn:** [My LinkedIn Account](https://www.linkedin.com/in/ashraf-osama23/)
