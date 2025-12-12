@@ -1,7 +1,7 @@
 # Hi there, I'm Ashraf! 👋
 
 
-- 🔭 Currently developing scalable **Back-end** projects with **[Node.js, ASP.NET]**.
+- 🔭 Currently developing scalable **Back-end** projects with **[ Node.js, ASP.NET ]**.
 
 
 ## 📚 Frameworks and Libraries 
