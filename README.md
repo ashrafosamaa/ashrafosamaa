@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hey there, Iam Ashraf Osama 👋</h1>
+<h1 align="center">Hey there, I’m Ashraf Osama 👋</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m seeking for a job as Software Engineer.<br>- 📚 I'm currently learning Backend Technologies.</p>
+<p align="left">- 🔭 I’m seeking for a job as Software Engineer.<br>- 📚 I built many Backend Projects.<br>- ⚡ Experinced at Node.Js and ASP.NET</p>
 
 ###
 
