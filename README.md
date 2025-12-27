@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Engineer.<br>- 📚 I'm currently learning Backend Technologies.</p>
+<p align="left">- 🔭 I’m seeking for a job as Software Engineer.<br>- 📚 I'm currently learning Backend Technologies.</p>
 
 ###
 
