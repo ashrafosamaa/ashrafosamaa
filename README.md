@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m seeking for a job as Software Engineer.<br>- 📚 I built many Backend Projects.<br>- ⚡ Experinced at Node.Js and ASP.NET</p>
+<p align="left">- 🔭 I’m seeking for a job as Software Engineer.<br>- 📚 I built many Backend Projects.<br>- ⚡ Experienced at Node.Js and ASP.NET</p>
 
 ###
 
